@@ -1,0 +1,22 @@
+.video_item__row {
+    cursor: pointer;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+}
+
+.video_item__row:hover {
+    background: #eee;
+}
+
+.video_item__img {
+    max-width: 100%;
+}
+
+.video_item__name {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.video_item__group {
+    color: #676767;
+}
